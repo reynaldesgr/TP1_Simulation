@@ -1,0 +1,13 @@
+D - miscellaneous
+10.
+    * Internet Scientific Librairies (up to date random number generators)
+        - NumPy (Python) : numpy.random / random
+        - C : stdlib 
+        - GLIB
+        - C++ : STL
+
+11. 
+    * Internet statistical libraries able to test random number sources
+        - DIEHARD : consists of a battery of several statistical tests
+        - TestU01 : provides a suite of statistical tests and tools 
+        - RaBiGeTe : test a random or pseudo-random bit or number generator to see whether it has the characteristics expected in a true random generator

@@ -1,0 +1,5 @@
+3.
+    * The default random number generator by a "man 3 rand"
+    is not suitable for scientific applications due to its periodicity
+    and then its predictability (based on a formula)
+    ==> it has a structural statistical flaws
